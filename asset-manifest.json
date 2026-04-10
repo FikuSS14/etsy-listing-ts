@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/etsy-listing-ts/static/css/main.a12aba66.css",
+    "main.js": "/etsy-listing-ts/static/js/main.9b903998.js",
+    "index.html": "/etsy-listing-ts/index.html",
+    "main.a12aba66.css.map": "/etsy-listing-ts/static/css/main.a12aba66.css.map",
+    "main.9b903998.js.map": "/etsy-listing-ts/static/js/main.9b903998.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12aba66.css",
+    "static/js/main.9b903998.js"
+  ]
+}
